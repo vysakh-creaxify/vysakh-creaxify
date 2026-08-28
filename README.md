@@ -28,20 +28,36 @@
 <tr>
 <td width="32%" valign="top" align="center">
 
-<img src="https://github.com/vysakh-creaxify.png" width="200" style="border-radius:50%;" alt="Vysakh K"/>
+<img src="https://github.com/vysakh-creaxify.png" width="180" style="border-radius:50%;" alt="Vysakh K"/>
+
+<br/>
 
 ### vysakh k
-`vysakh-creaxify`
+<sub>`vysakh-creaxify`</sub>
 
-<img src="https://img.shields.io/badge/📍-Kerala,_India-9C27B0?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🟢-Available_for_Freelance-2ECC71?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/☕-Fueled_by_Coffee-6F4E37?style=flat-square" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Kerala,_India-9C27B0?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/🟢_Available_for_Freelance-2ECC71?style=flat-square" /><br/><br/>
+<img src="https://img.shields.io/badge/☕_Fueled_by_Coffee-6F4E37?style=flat-square" />
+
+<br/><br/>
 
 **🎯 Quick Facts**
-- 🏢 Founder @ Creaxify
-- 🧩 4+ Repositories
-- 🤝 Open to Collabs
-- ✉️ [Get in Touch](https://vysakh.creaxify.com/)
+
+<br/>
+
+🏢&nbsp; Founder @ Creaxify
+<br/><br/>
+🧩&nbsp; 4+ Repositories
+<br/><br/>
+🤝&nbsp; Open to Collabs
+
+<br/><br/>
+
+<a href="https://vysakh.creaxify.com/">
+  <img src="https://img.shields.io/badge/✉️_Get_in_Touch-7000FF?style=for-the-badge&logoColor=white" />
+</a>
 
 </td>
 <td width="68%" valign="top">

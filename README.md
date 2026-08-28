@@ -74,6 +74,32 @@ fun_fact: "I ship pixels by day and campaigns by night 🌙"
 
 > I'm a **Digital Craftsman & Agency Founder** who bridges the gap between creative visual branding and high-converting engineering execution. Whether it's custom WordPress core architecture, Chrome browser extensions, or data-driven Meta Ad funnels — my goal is always **scalable business growth**.
 
+**🧠 Skills at a Glance**
+
+Full-stack web development (HTML, CSS, JS, PHP, MySQL) · Custom WordPress themes & plugins · Chrome extension engineering · OSINT tool development · Technical SEO & Meta Ads · Conversion-rate optimization · Brand identity & logo design · UI/UX in Figma & Adobe Creative Suite
+
+I move fluidly between writing production code, running paid growth campaigns, and designing the brand around them — so clients get one person who can own a project end-to-end instead of juggling three agencies.
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2200&pause=700&color=00F2FE&center=true&vCenter=true&width=560&lines=20%2B+Websites+Delivered+%F0%9F%8C%90;45%2B+Chrome+Extensions+Built+%F0%9F%A7%A9;5%2B+OSINT+Tools+Engineered+%F0%9F%94%8D;4%2B+WordPress+Plugins+Shipped+%E2%9A%99%EF%B8%8F;20%2B+Brands+Partnered+With+%F0%9F%A4%9D;10%2B+Logos+Designed+%F0%9F%8E%A8" alt="Project stats typing animation" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/20%2B-Websites_Built-00F2FE?style=for-the-badge&logoColor=black" height="42"/>
+<img src="https://img.shields.io/badge/45%2B-Chrome_Extensions-4285F4?style=for-the-badge&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/5%2B-OSINT_Tools-9C27B0?style=for-the-badge&logoColor=white" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/4%2B-WordPress_Plugins-21759B?style=for-the-badge&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/20%2B-Brands_Partnered-2ECC71?style=for-the-badge&logoColor=black" height="42"/>
+<img src="https://img.shields.io/badge/10%2B-Logos_Designed-E91E63?style=for-the-badge&logoColor=white" height="42"/>
+
+</div>
+
+<br/>
+
 **Why work with me?**
 - 🎯 I design and build with conversions in mind, not just aesthetics
 - ⚙️ I ship production-ready code, not just prototypes
@@ -110,6 +136,25 @@ Identity systems, packaging, and UI/UX design that make products look as good as
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Brands I've Worked With
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Huggi_Kochi_Caffe-1a1a1a?style=for-the-badge" height="38"/>
+<img src="https://img.shields.io/badge/Appas_Holidays-1a1a1a?style=for-the-badge" height="38"/>
+<img src="https://img.shields.io/badge/Quadifly_Business_Consultancy-1a1a1a?style=for-the-badge" height="38"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Clearzone_Pest_Control_UAE-1a1a1a?style=for-the-badge" height="38"/>
+<img src="https://img.shields.io/badge/Ads_by_WheelersApp-1a1a1a?style=for-the-badge" height="38"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Yathri_Holidays-1a1a1a?style=for-the-badge" height="38"/>
+<img src="https://img.shields.io/badge/Eyathra_Holidays-1a1a1a?style=for-the-badge" height="38"/>
+<img src="https://img.shields.io/badge/Keracrisp-1a1a1a?style=for-the-badge" height="38"/>
+
+</div>
 
 ---
 

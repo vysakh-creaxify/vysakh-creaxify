@@ -24,16 +24,49 @@
 
 ## 💡 About Me & Vision
 
+<table>
+<tr>
+<td width="32%" valign="top" align="center">
+
+<img src="https://github.com/vysakh-creaxify.png" width="200" style="border-radius:50%;" alt="Vysakh K"/>
+
+### vysakh k
+`vysakh-creaxify`
+
+<img src="https://img.shields.io/badge/📍-Kerala,_India-9C27B0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🟢-Available_for_Freelance-2ECC71?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/☕-Fueled_by_Coffee-6F4E37?style=flat-square" />
+
+**🎯 Quick Facts**
+- 🏢 Founder @ Creaxify
+- 🧩 4+ Repositories
+- 🤝 Open to Collabs
+- ✉️ [Get in Touch](https://vysakh.creaxify.com/)
+
+</td>
+<td width="68%" valign="top">
+
 ```yaml
 name: Vysakh K
 role: Founder @ Creaxify | Digital Marketer & Web Developer
 location: Kerala, India 🇮🇳
 mission: "Bridging creative brand storytelling with high-converting engineering"
 currently_building: Custom WordPress engines, Chrome extensions & Meta Ad funnels
+currently_learning: Advanced automation & AI-assisted workflows
 fun_fact: "I ship pixels by day and campaigns by night 🌙"
 ```
 
 > I'm a **Digital Craftsman & Agency Founder** who bridges the gap between creative visual branding and high-converting engineering execution. Whether it's custom WordPress core architecture, Chrome browser extensions, or data-driven Meta Ad funnels — my goal is always **scalable business growth**.
+
+**Why work with me?**
+- 🎯 I design and build with conversions in mind, not just aesthetics
+- ⚙️ I ship production-ready code, not just prototypes
+- 📊 I back creative decisions with data from real ad performance
+- 🤝 I work directly with founders — no account managers, no middlemen
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -19,13 +19,14 @@
 
 ---
 
-### ⚡ Core Capabilities & Tech Stack
+### ⚡ Core Capabilities, SEO & Tech Stack
 
-| Domain | Technologies & Tools |
+| Domain Category | Advanced Technologies, Skills & SEO Competencies |
 | :--- | :--- |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Platforms & Extensions** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Marketing & Design** | ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **🌐 Full-Stack Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>*Custom Code, Backend Optimization, Responsive UI Architecture* |
+| **📈 Digital Marketing & SEO** | ![SEO](https://img.shields.io/badge/Technical_SEO-FF5722?style=flat-square&logo=google&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white) ![Analytics](https://img.shields.io/badge/Conversion_Rate_Optimization-4CAF50?style=flat-square&logo=googleanalytics&logoColor=white) ![Local SEO](https://img.shields.io/badge/Local_SEO_&_Geo_Targeting-9C27B0?style=flat-square&logo=openstreetmap&logoColor=white)<br/>*ROI-Driven Ad Campaigns, Lead Generation, Search Rankings, Funnel Strategy* |
+| **🛠️ Ecosystems & Extensions** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![API Integration](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=postman&logoColor=white)<br/>*Custom WP Themes & Plugins, Browser Extension Development, Automation* |
+| **🎨 Brand Design & Packaging** | ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Packaging](https://img.shields.io/badge/Product_Packaging-E91E63?style=flat-square&logo=adobeindesign&logoColor=white)<br/>*Brand Identity, Commercial Mockups, Die-Cut Print Blueprints, UI/UX* |
 
 ---
 

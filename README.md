@@ -19,6 +19,16 @@
 
 ---
 
+### 🚀 Featured Case Studies & Creative Works
+
+| Project / Brand | Domain & Scope | Key Deliverables & Impact |
+| :--- | :--- | :--- |
+| **🌿 AyurRuh Wellness** | Natural Wellness Brand | Holistic brand identity, color theory philosophy, and logo variations. |
+| **👶 Huggi Toddler Foods** | Consumer Product Packaging | Die-cut flat packaging blueprints, container box layouts, and text hierarchies. |
+| **🚌 Mobility Media Network** | Transit Digital Advertising | Multi-page presentation decks, pricing matrices, and sales-conversion collateral. |
+
+---
+
 ### ⚡ Core Capabilities, SEO & Tech Stack
 
 | Domain Category | Advanced Technologies, Skills & SEO Competencies |

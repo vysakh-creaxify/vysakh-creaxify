@@ -142,7 +142,7 @@ Identity systems, packaging, and UI/UX design that make products look as good as
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vysakh-creaxify&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vysakh-creaxify&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -193,16 +193,32 @@ Identity systems, packaging, and UI/UX design that make products look as good as
 
 <div align="center">
 
-| | |
-|---|---|
-| 🌐 **Official Agency Portal** | [vysakh.creaxify.com](https://vysakh.creaxify.com/) |
-| 🎨 **Design Portfolio** | [Behance Workstream](https://www.behance.net/vysakh_creaxify) |
-| 💻 **Interactive Code Demos** | [CodePen Profile](https://codepen.io/vysakh-digital-marketer-in-creaxify) |
-| 🛒 **Digital Assets Shop** | [Creative Market Store](https://creativemarket.com/users/vysakh_creaxify) |
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="waving hand"/>
 
-**💬 Have a project in mind? Let's build something that converts.**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=7000FF&center=true&vCenter=true&width=600&lines=Let's+build+something+that+converts+%F0%9F%9A%80;Got+a+project+in+mind%3F+Let's+talk+%F0%9F%92%AC;Open+to+freelance+%26+collab+work+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<a href="https://vysakh.creaxify.com/"><img src="https://img.shields.io/badge/Let's_Talk-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<br/><br/>
+
+<a href="https://vysakh.creaxify.com/"><img src="https://img.shields.io/badge/🌐_Agency_Portal-00F2FE?style=for-the-badge&logoColor=black" height="45"/></a>
+<a href="https://www.linkedin.com/in/vysakh-digital-marketer-in-creaxify/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
+<a href="https://www.behance.net/vysakh_creaxify"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="45"/></a>
+<a href="https://x.com/vysakh_creaxify"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="45"/></a>
+<a href="https://www.instagram.com/vysakh.creaxify/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/></a>
+
+<br/><br/>
+
+<a href="https://codepen.io/vysakh-digital-marketer-in-creaxify"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="40"/></a>
+<a href="https://creativemarket.com/users/vysakh_creaxify"><img src="https://img.shields.io/badge/Creative_Market-73DC8C?style=for-the-badge&logo=creativemarket&logoColor=black" height="40"/></a>
+
+<br/><br/>
+
+<a href="https://vysakh.creaxify.com/">
+  <img src="https://img.shields.io/badge/💬_Let's_Talk-Start_a_Project-7000FF?style=for-the-badge&logoColor=white" height="45"/>
+</a>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="28" alt="sparkles"/>
 
 </div>
 

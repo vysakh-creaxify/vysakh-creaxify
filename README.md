@@ -153,24 +153,36 @@ Identity systems, packaging, and UI/UX design that make products look as good as
 ## 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vysakh-creaxify&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00f2fe&icon_color=7000ff&count_private=true" alt="Vysakh's Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysakh-creaxify&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00f2fe" alt="Top Languages" height="165"/>
+
+<sub>Overview</sub><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=vysakh-creaxify&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00f2fe&icon_color=7000ff&count_private=true&cache_seconds=86400" alt="Vysakh's Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysakh-creaxify&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=00f2fe&cache_seconds=86400" alt="Top Languages" height="170"/>
+
+<br/><br/>
+
+<sub>Streak</sub><br/>
+<img src="https://streak-stats.demolab.com/?user=vysakh-creaxify&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+
+<br/><br/>
+
+<sub>Trophies</sub><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=vysakh-creaxify&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<sub>Contribution Graph</sub><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vysakh-creaxify&theme=tokyo-night&hide_border=true&bg_color=161b22&color=00f2fe&line=7000ff&point=ffffff" alt="Contribution Graph" width="95%" />
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vysakh-creaxify&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vysakh-creaxify&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vysakh-creaxify&theme=tokyo-night&hide_border=true&bg_color=161b22&color=00f2fe&line=7000ff&point=ffffff" alt="Contribution Graph" width="100%" />
-
-</div>
+<!--
+  NOTE ON RELIABILITY:
+  The cards above pull from shared public services (github-readme-stats.vercel.app,
+  github-profile-trophy.vercel.app, etc). These are free, community-run, and occasionally
+  hit rate limits or go down during traffic spikes — this is a known limitation, not
+  a mistake in this file. For guaranteed uptime, self-host github-readme-stats on your
+  own free Vercel account (5-minute setup): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
 <!--
   🐍 Contribution Snake Animation
